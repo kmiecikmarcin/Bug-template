@@ -7,11 +7,11 @@ We should shortly describe where we found an issue and what it broke.
 ### Environment:
 Environment - e.g. dev/staging/prod
 
-Platform - e.g. app/Mambu/API
+Platform - e.g. Mobile APP/API/Tool
 
-Operating system - e.g. Android/iOS
+Operating system - e.g. Android/iOS or Windows/MacOs
 
-Device/Browser - e.g. iPhone 12
+Device/Browser - e.g. iPhone 12 or Google Chrome
 
 ### Severity:
 * Low: Bug won’t result in any noticeable breakdown of the system.
