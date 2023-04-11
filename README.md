@@ -13,6 +13,9 @@ Operating system - e.g. Android/iOS or Windows/MacOs
 
 Device/Browser - e.g. iPhone 12 or Google Chrome
 
+### Data:
+Data which is used in steps to reproduce the bug.
+
 ### Severity:
 * Low: Bug won’t result in any noticeable breakdown of the system.
 * Minor: Results in some unexpected or undesired behaviour, but not enough to disrupt system function.
